@@ -1,2 +1,36 @@
-env
-.ipynb_checkpoints
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Caches
+.cache/
+.ipynb_checkpoints/
+
+# Logs
+logs/
+*.log
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Entornos virtuales
+venv/
+env/
+ENV/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Archivos temporales y backups
+*~
+*.bak
+*.swp
+*.swo
+
+# Otros archivos que podrías querer ignorar
+# (Descomenta si generas estos archivos y no deseas incluirlos en el control de versiones)
+# *.csv
+# *.xlsx
